@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>About Me</title>
+      <link>https://phutp.github.io/about/</link>
+      <pubDate>Sat, 13 Apr 2019 12:03:11 +0700</pubDate>
+      
+      <guid>https://phutp.github.io/about/</guid>
+      <description>DevOps Engineer at Mingle</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://phutp.github.io/posts/hello-world/</link>
       <pubDate>Sat, 13 Apr 2019 12:03:11 +0700</pubDate>

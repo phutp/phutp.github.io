@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://phutp.github.io/about/</loc>
+    <lastmod>2019-04-13T12:03:11+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://phutp.github.io/categories/</loc>
     <lastmod>2019-04-13T12:03:11+07:00</lastmod>
     <priority>0</priority>
