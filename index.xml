@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phong Phu</title>
-    <link>https://phongphu.net/</link>
+    <link>https://phutp.github.io/</link>
     <description>Recent content on Phong Phu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 13 Apr 2019 12:03:11 +0700</lastBuildDate>
     
-	<atom:link href="https://phongphu.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phutp.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://phongphu.net/about/</link>
+      <link>https://phutp.github.io/about/</link>
       <pubDate>Sat, 13 Apr 2019 12:03:11 +0700</pubDate>
       
-      <guid>https://phongphu.net/about/</guid>
+      <guid>https://phutp.github.io/about/</guid>
       <description>DevOps Engineer at Mingle</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://phongphu.net/posts/hello-world/</link>
+      <link>https://phutp.github.io/posts/hello-world/</link>
       <pubDate>Sat, 13 Apr 2019 12:03:11 +0700</pubDate>
       
-      <guid>https://phongphu.net/posts/hello-world/</guid>
+      <guid>https://phutp.github.io/posts/hello-world/</guid>
       <description>Hello World !</description>
     </item>
     
