@@ -6,8 +6,18 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sat, 13 Apr 2019 12:03:11 +0700</lastBuildDate>
+		<lastBuildDate>Sat, 13 Apr 2019 12:20:59 +0700</lastBuildDate>
 		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>My Second Post</title>
+			<link>https://example.com/posts/my-second-post/</link>
+			<pubDate>Sat, 13 Apr 2019 12:20:59 +0700</pubDate>
+			
+			<guid>https://example.com/posts/my-second-post/</guid>
+			<description></description>
+			<content type="html"><![CDATA[]]></content>
+		</item>
 		
 		<item>
 			<title>My First Post</title>
